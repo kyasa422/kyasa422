@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyasa422&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=kyasa422&theme=tokyonight)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kyasa422&show_icons=true&theme=tokyonight)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kyasa422&theme=tokyo-night)
